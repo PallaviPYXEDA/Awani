@@ -2,3 +2,5 @@ langchain-core==0.2.36
 langchain-openai==0.1.23
 openai==1.43.0
 pinecone-client==5.0.1
+scikit-learn==1.2.2
+numpy==1.25.2
