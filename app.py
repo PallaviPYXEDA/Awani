@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 
-MODEL_NAME = "modelRFAgePredictor"
+MODEL_NAME = "RF.py"
 
 @st.cache_resource
 def load_model(model_name):
